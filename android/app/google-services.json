@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17505036861",
+    "project_id": "thechronicle-43937",
+    "storage_bucket": "thechronicle-43937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17505036861:android:52a0ce72742962d7ea1854",
+        "android_client_info": {
+          "package_name": "com.abhishek.thechronicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17505036861-1p6i4bqe269ok6vdguiduiq8dstdde6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVd-jVqi7BOb_FRntml2jHBDw7spmSVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17505036861-1p6i4bqe269ok6vdguiduiq8dstdde6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
