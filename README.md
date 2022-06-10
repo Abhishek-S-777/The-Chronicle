@@ -1,6 +1,6 @@
-# thechronicle
+# The Chronicle
 
-A new Flutter project.
+A Flutter-Firebase app which solves the drawback of a customer going in search of a newspaper agency, where he might not be familiar with the in and out of the new locality.
 
 ## Getting Started
 
