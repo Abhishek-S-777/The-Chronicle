@@ -15,7 +15,7 @@ A Flutter-Firebase app which solves the drawback of a customer going in search o
 * An **invoice is generated dynamically** for the purchase, which is automatically saved to the *downloads folder in android and also sent to the registered email ID*.
 * **RazorPay** integration for realtime payments (RazorPay Test API).
 
-### Hero (Delivery Agent) Features: ###
+#### Hero (Delivery Agent) Features: ####
 * Whenever a user signs up with *The Chronicle* and starts his subscription, *Hero* is notified about it.
 * *The Hero* receives a list of all the users subscribed for the service.
 * *The Hero* selects a user to deliver their order, he can view the order details such as the name, email, phone and the delivery address.
