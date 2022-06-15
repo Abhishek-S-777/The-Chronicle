@@ -9,9 +9,9 @@ A Flutter-Firebase app which solves the drawback of a customer going in search o
 * Browse through various *newspapers, magazines and post comments, add/remove products to cart or whishlist*.
 * User can identify if it is a **Morning** or **Evening** newsapper, or if it is an **Annual** or **Half-Yearly** magazine. 
 * Search for products using the **search bar**
-* Update their profile such as their **display avatar and other personala details**.
+* Update their profile such as their **display avatar and other personal details**.
 * Check the order in the My Orders section.
-* Also, users can **Pause subscription for a selected period of time** or **Cancel subscritpion**
+* Also, users can **Pause subscription for a selected period of time** or **Cancel subscription**
 * An **invoice is generated dynamically** for the purchase, which is automatically saved to the *downloads folder in android and also sent to the registered email ID*.
 * **RazorPay** integration for realtime payments (RazorPay Test API).
 
