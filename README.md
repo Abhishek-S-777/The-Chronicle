@@ -37,25 +37,25 @@ A Flutter-Firebase app which solves the drawback of a customer going in search o
 
 <img src="https://user-images.githubusercontent.com/89989890/173865528-8d5a1d65-fe94-4129-982d-236b271af620.png" width="220" height="450" />
 
-***Cart Page***
+***Cart Page:***
 
 <img src="https://user-images.githubusercontent.com/89989890/173871747-ec4d28ce-e810-4748-baea-26942a49cf3a.png" width="220" height="450" />
 
-***Subscritpion Page***
+***Subscritpion Page:***
 
 <img src="https://user-images.githubusercontent.com/89989890/173872496-22f75fde-4c48-4e49-88b2-6f179c852090.png" width="220" height="450" />
 
-***Order Details Page***
+***Order Details Page:***
 
 <img src="https://user-images.githubusercontent.com/89989890/173873821-1061252f-19ac-4d56-a66c-74fb5820dd6e.png" width="220" height="450" />
 
-***The Hero Module (Delivery Agent)***
+***The Hero Module (Delivery Agent):***
 
-***Hero Home Page***
+***Hero Home Page:***
 
 <img src="https://user-images.githubusercontent.com/89989890/173874172-7ee7317e-870f-42e7-8335-9ece1caf8c31.png" width="220" height="450" />
 
-***Hero Delivery Details***
+***Hero Delivery Details:***
 
 <img src="https://user-images.githubusercontent.com/89989890/173874682-fe7843b2-b5dc-4ca3-9b4d-d54f373955df.png" width="220" height="450" />
 
