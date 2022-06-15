@@ -7,6 +7,7 @@ A Flutter-Firebase app which solves the drawback of a customer going in search o
 #### User Features ####
 * This app is built using **Flutter framework** and **Google Firebase** as the back-end.
 * Browse through various *newspapers, magazines and post comments, add/remove products to cart or whishlist*.
+* The cart provides a comprehensive division of the total cost which shows the 30 days amount for the newspaper subscribed and the amount for the magazines subscribed. 
 * User can identify if it is a **Morning** or **Evening** newsapper, or if it is an **Annual** or **Half-Yearly** magazine. 
 * Search for products using the **search bar**
 * Update their profile such as their **display avatar and other personal details**.
@@ -57,7 +58,7 @@ A Flutter-Firebase app which solves the drawback of a customer going in search o
 
 ***Hero Delivery Details:***
 
-<img src="https://user-images.githubusercontent.com/89989890/173874682-fe7843b2-b5dc-4ca3-9b4d-d54f373955df.png" width="220" height="450" />
+<img src="https://user-images.githubusercontent.com/89989890/173887866-8b6a09c5-41de-4cfb-a211-2850f949d896.png" width="220" height="450" />
 
 <img src="https://user-images.githubusercontent.com/89989890/173874938-0517aa45-ad7c-423e-8ee5-0223d9792d4e.png" width="220" height="450" />
 
